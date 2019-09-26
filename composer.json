@@ -27,7 +27,6 @@
         "illuminate/routing": "~5.5",
         "aws/aws-sdk-php": "^3.28",
         "ramsey/uuid": "^3.7",
-        "nesbot/carbon": "^2.0.0",
         "guzzlehttp/guzzle": "~6.0",
         "paquettg/php-html-parser": "^1.7",
         "aws/aws-php-sns-message-validator": "^1.4",
