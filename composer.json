@@ -1,5 +1,5 @@
 {
-    "name": "oliveready7/laravel-ses",
+    "name": "ruelrule05/laravel-ses",
     "description": "Allows you to track opens, deliveries, bounces, complaints and clicked links when sending emails through Laravel and Amazon SES",
     "type": "library",
     "license": "MIT",
@@ -14,8 +14,8 @@
     ],
     "authors": [
         {
-            "name": "Oliver Eady",
-            "email": "oliveready7@gmail.com"
+            "name": "Ruel Rule",
+            "email": "ruelrule05@gmail.com"
         }
     ],
     "require": {
