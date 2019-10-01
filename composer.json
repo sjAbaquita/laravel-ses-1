@@ -1,5 +1,5 @@
 {
-    "name": "ruelrule05/laravel-ses",
+    "name": "seth/laravel-ses",
     "description": "Allows you to track opens, deliveries, bounces, complaints and clicked links when sending emails through Laravel and Amazon SES",
     "type": "library",
     "license": "MIT",
